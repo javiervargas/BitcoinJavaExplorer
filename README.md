@@ -5,6 +5,7 @@ Implementan el cliente RPC ubicado en https://github.com/Polve/bitcoin-rpc-clien
 
 java BitcoinClient <bloque> <valor_min_bitcoins>
   
+<pre><code>
 ubuntu@vmi214216:/var/www/twitter$ java BitcoinClient 563335 2
 9c836005384387d160d2316e96cd1c49ebc2d2af25741342aaa6e27760174ab0 12.50878374 1CK6KHY6MHgYvmRQ4PAafKYDrg1ejbH1cE  7c154ed1dc59609e3d26abb2df2ea3d587cd8c41  
 939b2580345eb720650354ea58a8c8326b7107b80ef48fffc1fe11ed700432e7 11.59 1DieQdDAphnLnJDp3nLAYbgpAwyoA5fgvR  8b81ca3671c3cfd2c550c62d599cf2be99771080  
@@ -16,5 +17,6 @@ e4c2bb081bbd421c090eaedbb3ef33b93a8e08d7f0ed849922f5da3ab262d791 272.04957083 1K
 c859db4abda722c2f7bfdde462ad7e6c72c4925b05040cb99d947e760df6c4c9 4.88909981 32Tuu1e3MzddJkCDMiDwnz9EVuZa6V2iwg  087db00c1a7a256572ce4156f4c48b13c571c75d 
 65e61c413b71e6f18d830e448b9267fa38c5142ec635292e5b7931c833f40ec2 6.44147184 3CCnN2uhuRk8S65csPYtwAZf56F2Zzgkd4  73526abcaa73f1ff18ac04349af2d42865816ed9 
 Total transacciones: 228
+</pre></code>
   
 
