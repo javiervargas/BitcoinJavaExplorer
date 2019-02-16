@@ -3,7 +3,7 @@ Un conjunto de clases Java para explorar la blockchain de Bitcoin
 
 Implementan el cliente RPC ubicado en https://github.com/Polve/bitcoin-rpc-client
 
-java BitcoinClient <bloque> <valor_min_bitcoins>
+java BitcoinClient  <bloque> <valor_min_bitcoins>
   
 <pre><code>
 ubuntu@vmi214216:/var/www/twitter$ java BitcoinClient 563335 2
