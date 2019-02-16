@@ -6,7 +6,7 @@ Implementan el cliente RPC ubicado en https://github.com/Polve/bitcoin-rpc-clien
 java BitcoinClient  <bloque> <valor_min_bitcoins>
   
 <pre><code>
-ubuntu@vmi214216:/var/www/twitter$ java BitcoinClient 563335 2
+ubuntu@vmi214216:/var/www/$ java BitcoinClient 563335 2
 9c836005384387d160d2316e96cd1c49ebc2d2af25741342aaa6e27760174ab0 12.50878374 1CK6KHY6MHgYvmRQ4PAafKYDrg1ejbH1cE  7c154ed1dc59609e3d26abb2df2ea3d587cd8c41  
 939b2580345eb720650354ea58a8c8326b7107b80ef48fffc1fe11ed700432e7 11.59 1DieQdDAphnLnJDp3nLAYbgpAwyoA5fgvR  8b81ca3671c3cfd2c550c62d599cf2be99771080  
 939b2580345eb720650354ea58a8c8326b7107b80ef48fffc1fe11ed700432e7 47.87208796 13GLqMQBriETNwLfrSEuQzz5pqrvGaF54J  18d70c1b530d594ddaec0096cf032aaf2c892ea6  
