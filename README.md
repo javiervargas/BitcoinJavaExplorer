@@ -20,3 +20,5 @@ Total transacciones: 228
 </pre></code>
   
 Tips: 1DQko54WtKRr4jHj1mKK1upKPhTUfh949q
+
+<img src="qr.png"></img>
