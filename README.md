@@ -21,4 +21,6 @@ Total transacciones: 228
   
 Tips: 1DQko54WtKRr4jHj1mKK1upKPhTUfh949q
 
+Lightning Network
+
 <img src="qr.png"></img>
