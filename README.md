@@ -21,7 +21,4 @@ Total transacciones: 228
   
 Tips: 1DQko54WtKRr4jHj1mKK1upKPhTUfh949q
 
-Envíame una propina via Lightning Network
-
-<iframe src="https://store.clobig.com/tip" width="310" height="440"></iframe>
 
