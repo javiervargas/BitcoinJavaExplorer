@@ -1,3 +1,6 @@
+ /* Copyright (c) 2019 Javier Vargas
+ */
+
 import javax.xml.bind.DatatypeConverter;
 import java.util.Hashtable;
 import java.util.Enumeration;
